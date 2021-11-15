@@ -8,7 +8,21 @@
   <title>IBED - Sobre</title>
   <link rel="stylesheet" href="https://ibedir.github.io/assets/css/style.css">
   <link rel="shortcut icon" href="./assets/img/icon_73382b806f24847537c85b23f6f28092.ico"/>
+  <style type="text/css">
+    #btn-back{
+      padding-left: 10px;
+      padding-right: 10px;
+    }
+    #btn-next{
+      padding-left: 10px;
+      padding-right: 10px;
+    }
 
+    #btn-back:hover{
+      padding-left: 10px;
+      padding-right: 10px;
+    }
+  </style>
 </head>
 
 <body>
@@ -67,8 +81,8 @@
 
 <div class="w3-center">
   <div class="w3-section">
-    <button class="w3-btn" onclick="plusDivs(-1)">❮ Prev</button>
-    <button class="w3-btn" onclick="plusDivs(1)">Next ❯</button>
+    <button id="btn-back" class="w3-btn" onclick="plusDivs(-1)">❮ Voltar</button>
+    <button id="btn-next" class="w3-btn" onclick="plusDivs(1)">Pr&oacute;ximo ❯</button>
   </div>
   <!--
   <button class="w3-btn demo" onclick="currentDiv(1)">1</button> 
