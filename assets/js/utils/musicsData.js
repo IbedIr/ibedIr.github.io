@@ -3,7 +3,7 @@ const musicsData = [
     musicFile: "Efraim - Kaitlyn Oliveira.mp3",
     albumFile:"efraim.jpg",
     name: "Kaitlyn Oliveira",
-    performer: "Efraim"
+    performer: "Efraim",
   },
 
 ];
