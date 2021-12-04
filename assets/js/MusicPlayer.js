@@ -160,7 +160,7 @@ export default class MusicPlayer {
 
   static srcMusic = "./assets/sounds/";
 
-  static srcAlbum = "./assets/images/";
+  static srcAlbum = "./assets/img/";
 
   static playButton = document.querySelector('.play-pause');
   static nextButton = document.querySelector('.next.btn');
