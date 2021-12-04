@@ -12,7 +12,7 @@ function createMusicWrapper(music, curr) {
   const queueMusic = document.createElement('div');
   const innerContent = `
     <div class="queue__music-album">
-      <img src="./assets/images/${music.albumFile}" alt="">
+      <img src="./assets/img/${music.albumFile}" alt="">
     </div>
     <div class="queue__music-details">
       <h2 class="music-details__name">${music.name}</h2>
