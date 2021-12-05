@@ -7,7 +7,7 @@ const musicsData = [
   },
   {
     musicFile: "Adoradores - Teu Santo Nome.mp3",
-    albumFile:"Adoradores - teu santo nome.jpg.jpg",
+    albumFile:"Adoradores - teu santo nome.jpg",
     name: "Adoradores",
     performer: "Teu Santo Nome",
   },
