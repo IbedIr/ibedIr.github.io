@@ -72,7 +72,37 @@ const musicsData = [
 	name:"Voz da Verdade",
 	performer:"Escudo",
   },
-  
+  {
+    musicFile:"Itzik Orlev HaShem Echado.mp3",
+    albumFile:"Itzik Orlev HaShem Echado.jpg",
+    name:"Hashem Echad",
+    performer:" Tzik Orlev",
+  },
+
+  {
+    musicFile:"Yosef Karduner - Ma'oz Tzur.mp3",
+    albumFile:"Yosef Karduner - Ma'oz Tzur.jpg",
+    name:"Yosef Karduner",
+    performer:" Ma'oz Tzur",
+  },
+  {
+    musicFile:"Benny - Ivri Anochi - I'm a Jew and I'm Proud.mp3",
+    albumFile:"Benny - Ivri Anochi - I'm a Jew and I'm Proud.jpg",
+    name:"Benny",
+    performer:"Ivri Anochi - I'm a Jew and I'm Proud",
+  },
+  {
+    musicFile:"Gad Elbaz feat Nissim  Hashem Melech.mp3",
+    albumFile:"Gad Elbaz feat Nissim  Hashem Melech.jpg",
+    name:"Gad Elbaz feat Nissim",
+    performer:"Hashem Melech",
+  },
+  {
+    musicFile:"DJ PV  Som da Liberdade ft Ivair Filho  Tevão Lino.mp3",
+    albumFile:"DJ PV  Som da Liberdade ft Ivair Filho  Tevão Lino.jpg",
+    name:"DJ PV ft Ivair Filho  Tevão Lino",
+    performer:"Som da Liberdade",
+  },
 ];
 
 function createMusicWrapper(music, curr) {
