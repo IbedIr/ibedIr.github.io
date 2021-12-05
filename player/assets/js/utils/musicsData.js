@@ -7,7 +7,7 @@ const musicsData = [
   },
   {
     musicFile: "Adoradores - Teu Santo Nome.mp3",
-    albumFile:"Adoradores - teu santo nome.jpg",
+    albumFile:"Adoradores - Teu Santo Nome.jpg",
     name: "Adoradores",
     performer: "Teu Santo Nome",
   },
@@ -98,6 +98,12 @@ const musicsData = [
     performer:"Hashem Melech",
   },
   {
+    musicFile:"DJ PV  Som da Liberdade ft Ivair Filho  Tevão Lino.mp3",
+    albumFile:"DJ PV  Som da Liberdade ft Ivair Filho  Tevão Lino.jpg",
+    name:"DJ PV ft Ivair Filho  Tevão Lino",
+    performer:"Som da Liberdade",
+  },
+  {
     musicFile:"Agnus Dei   Würdig ist das Lamm.mp3",
     albumFile:"agnus-dei-deutschland.png",
     name:"Agnus Dei - Deutsch (Multilanguage)",
@@ -105,7 +111,7 @@ const musicsData = [
   },
   {
     musicFile:"Lauren Horii  Oceans.mp3",
-    albumFile:"japão.jpg",
+    albumFile:"japao.jpg",
     name:"Lauren Horii",
     performer:"Oceanos",
   },
