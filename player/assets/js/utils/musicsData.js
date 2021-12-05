@@ -1,7 +1,13 @@
 const musicsData = [
+	{
+	musicFile: "Danielle Cristina - Fidelidade.mp3",
+	albumFile:"Danielle Cristina - Fidelidade.jpg",
+	name:"Danielle Cristina",
+	performer:"Fidelidade",
+  },
   {
     musicFile: "Adoradores - Teu Santo Nome.mp3",
-    albumFile:"Adoradores - teu santo nome.jpg",
+    albumFile:"Adoradores - Teu Santo Nome.jpg",
     name: "Adoradores",
     performer: "Teu Santo Nome",
   },
@@ -60,6 +66,13 @@ const musicsData = [
     name: "Yosef Karduner",
     performer: "Hashem Melech",
   },
+  {
+	musicFile: "Voz da Verdade - Escudo.mp3",
+	albumFile:"Voz da Verdade - Escudo.jpg",
+	name:"Voz da Verdade",
+	performer:"Escudo",
+  },
+  
 ];
 
 function createMusicWrapper(music, curr) {
