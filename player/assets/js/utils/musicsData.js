@@ -105,7 +105,7 @@ const musicsData = [
   },
   {
     musicFile:"Agnus Dei   Würdig ist das Lamm.mp3",
-    albumFile:"agnus-dei-deutchland.jpg",
+    albumFile:"agnus-dei-deutschland.jpg",
     name:"Agnus Dei - Deutsch (Multilanguage)",
     performer:"Würdig ist das Lamm",
   },
