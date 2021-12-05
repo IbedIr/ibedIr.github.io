@@ -100,13 +100,13 @@ const musicsData = [
   {
     musicFile:"DJ PV  Som da Liberdade ft Ivair Filho  Tevão Lino.mp3",
     albumFile:"DJ PV  Som da Liberdade ft Ivair Filho  Tevão Lino.jpg",
-    name:"DJ PV ft Ivair Filho  Tevão Lino",
-    performer:"Som da Liberdade",
+    name:"DJ PV",
+    performer:"Som da Liberdade ft Ivair Filho  Tevão Lino",
   },
   {
     musicFile:"Agnus Dei   Würdig ist das Lamm.mp3",
     albumFile:"agnus-dei-deutschland.jpg",
-    name:"Agnus Dei - Deutsch (Multilanguage)",
+    name:"Agnus Dei - Deutsche",
     performer:"Würdig ist das Lamm",
   },
   {
