@@ -103,6 +103,12 @@ const musicsData = [
     name:"DJ PV ft Ivair Filho  Tevão Lino",
     performer:"Som da Liberdade",
   },
+  {
+    musicFile:"Agnus Dei   Würdig ist das Lamm.mp3",
+    albumFile:"agnus-dei-deutschland.jpg",
+    name:"Agnus Dei Deutchland (Multilanguage)",
+    performer:"Agnus Dei",
+  },
 ];
 
 function createMusicWrapper(music, curr) {
