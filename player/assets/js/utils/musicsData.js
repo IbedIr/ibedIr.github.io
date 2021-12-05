@@ -98,16 +98,16 @@ const musicsData = [
     performer:"Hashem Melech",
   },
   {
-    musicFile:"DJ PV  Som da Liberdade ft Ivair Filho  Tevão Lino.mp3",
-    albumFile:"DJ PV  Som da Liberdade ft Ivair Filho  Tevão Lino.jpg",
-    name:"DJ PV ft Ivair Filho  Tevão Lino",
-    performer:"Som da Liberdade",
+    musicFile:"Agnus Dei   Würdig ist das Lamm.mp3",
+    albumFile:"agnus-dei-deutschland.png",
+    name:"Agnus Dei - Deutsch (Multilanguage)",
+    performer:"Würdig ist das Lamm",
   },
   {
-    musicFile:"Agnus Dei   Würdig ist das Lamm.mp3",
-    albumFile:"agnus-dei-deutschland.jpg",
-    name:"Agnus Dei Deutchland (Multilanguage)",
-    performer:"Agnus Dei",
+    musicFile:"Lauren Horii  Oceans.mp3",
+    albumFile:"japão.jpg",
+    name:"Lauren Horii",
+    performer:"Oceanos",
   },
 ];
 
